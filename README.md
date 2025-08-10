@@ -1,13 +1,13 @@
-# 👋 سلام! من elixez9 هستم
+# 👋 Hi! I’m elixez9
 
-![Panda](https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG)
+![Panda GIF](https://media.giphy.com/media/6brH8lJP6k6ne/giphy.gif)
 
-## 🎯 درباره من
-- عاشق کد زدن و ابداع
-- علاقه‌مند به هوش مصنوعی و برنامه نویسی پایتون
-- بک اند کار می‌کنم
+## 🎯 About Me
+- Passionate about coding and creating
+- Interested in AI and Python programming
+- Backend developer
 
-## 🛠️ مهارت‌های من
+## 🛠️ My Skills
 
 | Python | Django | PG Admin | C# | Bootstrap | HTML | CSS |
 |--------|---------|----------|----|-----------|------|-----|
@@ -15,11 +15,11 @@
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 📫 Contact Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter)]([https://twitter.com/elixez9](https://x.com/elixez99?t=67VS0dSXZgDKI1HbhlsFgw&s=09))  
-
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter)](https://twitter.com/elixez9)  
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=flat&logo=telegram)](https://t.me/elixez9)
 
 ---
 
-![Fake Cat](https://cdn-icons-png.flaticon.com/512/616/616408.png)
+![Black Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
