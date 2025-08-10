@@ -1,6 +1,8 @@
 # 👋 Hi! I’m elixez9
 
-![Curly Hair Cartoon Girl](https://cdn-icons-png.flaticon.com/512/1998/1998673.png)
+![Curly Hair Cartoon Girl]([https://cdn-icons-png.flaticon.com/512/1998/1998673.png](https://i.pinimg.com/originals/20/6a/35/206a35c0a96311b680dbcf1d9830e0d9.png
+20:39
+))
 
 ## 🎯 About Me
 - Passionate about coding and creating
