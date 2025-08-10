@@ -1,6 +1,6 @@
 # 👋 Hi! I’m elixez9
 
-![Anonymous Cartoon](https://media.giphy.com/media/6brH8lJP6k6ne/giphy.gif)
+![Curly Hair Cartoon Girl](https://cdn-icons-png.flaticon.com/512/1998/1998673.png)
 
 ## 🎯 About Me
 - Passionate about coding and creating
