@@ -1,6 +1,6 @@
 # 👋 Hi! I’m elixez9
 
-![Anonymous Cartoon](https://i.pinimg.com/originals/20/6a/35/206a35c0a96311b680dbcf1d9830e0d9.png)
+![Black Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 🎯 About Me
 - Passionate about coding and creating
