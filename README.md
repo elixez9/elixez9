@@ -1,6 +1,6 @@
 # 👋 Hi! I’m elixez9
 
-![Panda GIF](https://media.giphy.com/media/6brH8lJP6k6ne/giphy.gif)
+![Anonymous Cartoon](https://media.giphy.com/media/6brH8lJP6k6ne/giphy.gif)
 
 ## 🎯 About Me
 - Passionate about coding and creating
