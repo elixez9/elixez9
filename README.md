@@ -11,15 +11,10 @@
 
 | Python | Django | PG Admin | C# | Bootstrap | HTML | CSS |
 |--------|---------|----------|----|-----------|------|-----|
-| ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) | ![Django](file:///C:/Users/HP/Downloads/django-icon-svgrepo-com.svg) | ![PG Admin](https://www.pgadmin.org/static/img/pgadmin4-logo.svg) | ![C#](https://cdn-icons-png.flaticon.com/512/6132/6132221.png) | ![Bootstrap](https://cdn-icons-png.flaticon.com/512/5968/5968672.png) | ![HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png) | ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) |
+| ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) | ![Django](https://img.icons8.com/color/48/000000/django.png) | ![PG Admin](https://cdn-icons-png.flaticon.com/512/5969/5969289.png) | ![C#](https://cdn-icons-png.flaticon.com/512/6132/6132221.png) | ![Bootstrap](https://cdn-icons-png.flaticon.com/512/5968/5968672.png) | ![HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png) | ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) |
 
 ---
 
 ## 📫 Contact Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter)](https://twitter.com/elixez9)  
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=flat&logo=telegram)](https://t.me/elixez9)
-
----
-
-![Black Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter)](https://x.com/elixez99?t=67VS0dSXZgDKI1HbhlsFgw&s=09)
